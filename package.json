@@ -4,8 +4,7 @@
   "description": "0.0.1",
   "main": "public/index.html",
   "dependencies": {
-    "socket.io": "^0.8.7",
-    "three": "^0.73.0"
+    "socket.io": "^0.8.7"
   },
   "devDependencies": {},
   "scripts": {
