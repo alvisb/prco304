@@ -2,7 +2,7 @@
   "name": "alvisb",
   "version": "1.0.0",
   "description": "0.0.1",
-  "main": "server.js",
+  "main": "insed.html",
   "dependencies": {
     "socket.io": "^0.8.7",
     "three": "^0.73.0"
