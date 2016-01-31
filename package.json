@@ -2,7 +2,7 @@
   "name": "alvisb",
   "version": "1.0.0",
   "description": "0.0.1",
-  "main": "public/index.html",
+  "main": "server.js",
   "dependencies": {
     "socket.io": "^0.8.7"
   },
