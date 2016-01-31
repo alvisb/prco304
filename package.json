@@ -1,4 +1,23 @@
 {
-  "name" : "alvisb",
-  "version" : "0.0.1",
+  "name": "alvisb",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^0.8.7",
+    "three": "^0.73.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@scalingo.com:alvisb.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "aaalvis.33@gmail.com",
+  "license": "ISC"
 }
