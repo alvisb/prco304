@@ -4,7 +4,7 @@
   "description": "0.0.1",
   "main": "server.js",
   "dependencies": {
-    "socket.io": "^0.8.7"
+    "socket.io": "^2.14.7"
   },
   "devDependencies": {},
   "scripts": {
